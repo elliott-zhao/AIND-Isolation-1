@@ -95,3 +95,9 @@ ENV/
 .ropeproject
 
 # End of https://www.gitignore.io/api/python
+
+.vscode/
+isolation-*.zip
+isolation-result*.json
+heuristic_analysis.pdf
+research_review.pdf
