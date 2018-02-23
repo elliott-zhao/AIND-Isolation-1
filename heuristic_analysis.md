@@ -60,8 +60,6 @@ The win rate is higher than AB_Improved by 3.6% in this tournament.
 
 ## conclution
 
-![result](D:\Workspace\AIND-Isolation\result.png)
-
 The calculation of the three functions is not very high, and it is not difficult to implement. And all three can have comparable or better performance than the AB_Improved. 
 
 These three functions are advisable both in terms of the amount of computation and the difficulty of implementation or from the performance considerations.
